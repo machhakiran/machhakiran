@@ -7,72 +7,42 @@
 </div>
 
 ---
+## 👨‍💻 About Me
 
-## 🧠 AI & Agentic Skills Focused for 2025
+I'm **Machha Kiran** — a passionate **AI Product Architect** and **Agentic Systems Engineer** focused on building intelligent, scalable, and production-ready applications across web, mobile, and enterprise-grade systems.
 
-🚀 Specializing in modern AI technologies to build scalable, intelligent, and autonomous systems.  
-I’m passionate about deploying multi-agent frameworks, context-managed LLMs, and SaaS AI apps.
+🔹 With deep expertise in **Large Language Models (LLMs)**, **Autonomous AI Agents**, and **cloud-native development**, I specialize in **end-to-end architecture** of full-stack agentic platforms — integrating advanced reasoning, vector search, real-time data pipelines, and multi-modal experiences.
 
-### 🧩 Core Capabilities:
+🔹 My work spans from **agent orchestration frameworks** (LangChain, AutoGen, ReAct) to **secure authentication**, **usage-based billing**, and **fine-grained context management** — all deployed via scalable backend infrastructure like **AWS**, **Azure**, and **Neon**.
 
-- 🔧 **Prompt Engineering** — Structured, context-rich LLM prompts with tools like `PromptPerfect`, `Claude`, `Gemini`, `ChatGPT`.
-- 🤖 **AI Agents & Frameworks** — Build with `LangChain`, `AutoGen`, `CrewAI`, `MetaGPT`, `ReAct`, and `LangGraph`.
-- 📦 **RAG & Vector Search** — Boost accuracy using `LlamaIndex`, `Pinecone`, `FAISS`, and `Weaviate`.
-- 🎯 **Multimodal AI** — Image, audio, and text integration via `GPT-4o`, `Claude 3`, `Gemini 1.5`.
-- ⚙️ **Tool Stacking & Integration** — Combine `Zapier`, `Notion AI`, `ClickUp AI`, `PromptLayer`, `Helicone`.
-- 🛠 **SaaS AI App Dev** — Modular AI apps using `Supabase`, `Bubble`, `Lovable`, `Neon`, `Cursor`, `Stripe`, `Tempo.new`.
-- 📊 **LLM Evaluation & Versioning** — Use `Trulens`, `Weights & Biases`, `OpenAI Evals`, and `LangChain Tools`.
-- 🧠 **Model Context Management (MCP)** — Token budgeting, memory management, and context control with `LangChain Memory`, `LangGraph`, `ReAct`.
-- 📈 **LLM Ops** — Evaluate, fine-tune, and deploy LLMs via `HuggingFace`, `LoRA`, `PEFT`, `OpenAI GPT Builder`.
+🔹 Whether it's building a **multimodal AI assistant**, a **real-time agent workflow**, or a **modular SaaS product** with **Stripe-powered monetization** and **OpenAI-driven intelligence**, I bring full-stack engineering and AI fluency together to deliver future-proof solutions.
 
 ---
 
-## 🛠 Tech Stack Highlights
+### 🧩 What I Build
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-2B2D42?style=flat-square&logo=Chainlink&logoColor=white)
-
----
-
-## ⚡ Quick AI POCs with No-Code & Agentic Stacks
-
-✅ Build prototypes in hours using:
-
-| Tool            | Use Case                          |
-|-----------------|------------------------------------|
-| `Tempo.new`     | Fast prototyping with AI pipelines |
-| `Cleark`        | Agent building and orchestration   |
-| `Stripe`        | SaaS billing and payments          |
-| `Neon`          | Postgres database in the cloud     |
-| `OpenAI`        | Core LLM-based logic & outputs     |
-| `Fal.ai`        | Serverless GPU AI backend          |
+- 🔁 **Agentic AI Applications** using LangChain, CrewAI, AutoGen, LangGraph, and custom agent routers  
+- 📱 **Cross-Platform Apps** with Next.js, React Native, Tailwind, Supabase, Neon, Firebase  
+- 🧠 **LLM Workflows** including prompt optimization, context control, tool-use agents, and fine-tuned pipelines  
+- 🛡️ **Auth Systems** using NextAuth, Clerk, Firebase Auth with role-based access and secure token flow  
+- 💳 **Payment Integration** using Stripe, Webhooks, SaaS usage tracking, and multi-plan subscriptions  
+- 🧪 **ModelOps & Observability** with tools like Trulens, Helicone, PromptLayer, Weights & Biases  
+- 🧠 **RAG & Vector Search Pipelines** using Pinecone, Weaviate, FAISS, and LlamaIndex  
+- 🧰 **Rapid AI Prototyping** with tools like Tempo.new, Cleark, Fal.ai, and OpenAI Functions
 
 ---
 
-## ☁️ Cloud + Enterprise Stack
+### 🌐 Let's Connect
 
-🔹 AWS Bedrock & SageMaker  
-🔹 Google Vertex AI + Gemini APIs  
-🔹 Microsoft Foundry + Azure OpenAI  
-
-👉 Use for scalable AI infra, multi-LLM routing, enterprise guardrails, observability, and governance.
-
----
-
-## 🌐 Connect with Me
+I’m always open to collaborations, mentorships, and innovative AI discussions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/machhakiran/)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGvNdo-r87Q12zW2MK01BFw)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machhakiran@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGvNdo-r87Q12zW2MK01BFw)
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </div>
+
