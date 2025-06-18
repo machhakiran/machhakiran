@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+👋+I'm+Machha+Kiran;AI+Engineer+%7C+Agentic+Systems+Builder;Innovating+the+Future+with+LLMs+and+Modern+AI+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+👋+I'm+Machha+Kiran;Full-Stack+AI+Developer+%7C+Agentic+Systems+Specialist;Accelerating+SaaS+with+LLMs+and+Cloud+AI+Platforms" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,29 +10,31 @@
 
 ## 👨‍💻 About Me
 
-I'm **Machha Kiran**, a passionate **Full-Stack AI Developer** and early adopter of **Agentic Frameworks**. I specialize in building intelligent, autonomous systems using cutting-edge AI tools and frameworks. Whether it's crafting LLM-powered apps, orchestrating multi-agent systems, or integrating AI with scalable cloud infrastructure—I'm driven by innovation and impact.
+I'm **Machha Kiran**, a Full-Stack AI Engineer focused on **Agentic Systems, LLMs**, and **Autonomous Applications**. My mission is to design production-grade AI systems that scale across cloud environments using powerful platforms from **OpenAI, Google Vertex AI, AWS Bedrock, and Microsoft Foundry**.
 
-<img align="right" alt="AI Agent" width="320" src="https://www.chatbase.co/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fi6kpkyc7%2Fprod-dataset%2F61f36fedbbb3466d985a45eb328a9349cc394e53-1536x1024.png&w=3840&q=75">
+I specialize in:
+- Architecting **SaaS applications enhanced by AI agents**
+- Using **multi-model LLM architectures** with versioning, fine-tuning, and evaluation pipelines
+- Accelerating development with **AI DevTools** and **cloud-native AI accelerators**
 
-### 🚀 What I’m Working On
-- 🤖 Developing **Agentic AI applications** using frameworks like **LangChain**, **CrewAI**, and **AutoGen**
-- 🧠 Building **LLM-driven tools** using **OpenAI**, **Anthropic**, **Gemini**, and **Hugging Face**
-- 📱 Prototyping mobile AI assistants using **React Native + LLM APIs**
-- ⚙️ Experimenting with **AI DevTools** such as **Cursor**, **Bolt.new**, **Cleark**, and **tempo.new**
-- 🧩 Deploying vector search apps with **Pinecone**, **Chroma**, and **Weaviate**
+<img align="right" alt="AI Coding" width="320" src="https://www.chatbase.co/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fi6kpkyc7%2Fprod-dataset%2F61f36fedbbb3466d985a45eb328a9349cc394e53-1536x1024.png&w=3840&q=75" />
 
-### 🧠 Core Interests
-- AI Agents & Autonomy
-- LLM Orchestration
-- Human-AI Interfaces (Electron, Web, Mobile)
-- Developer Experience in AI
+### 🔍 Key Areas of Focus
+- 🧠 **LLM Management**: Selecting, fine-tuning, evaluating, and versioning LLMs for specific domains
+- 🧩 **Multi-model Deployment**: Managing hybrid workflows with OpenAI, Claude, Gemini, and OSS models
+- 🚀 **SaaS Acceleration**: Leveraging AI platforms like:
+  - **AWS Bedrock + SageMaker**
+  - **Google Vertex AI**
+  - **Microsoft Foundry + Azure OpenAI**
+- ⚙️ **AI Lifecycle Tools**: Integrating MLflow, LangSmith, and Weights & Biases for reproducibility and auditability
+- 🤖 **Agentic Orchestration**: CrewAI, LangChain Agents, AutoGen, ReAct and tool-using autonomous workflows
 
 ---
 
 ## 🛠️ Tech Stack
 
 <details open>
-<summary>Languages</summary>
+<summary>🧑‍💻 Programming Languages</summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,7 +45,7 @@ I'm **Machha Kiran**, a passionate **Full-Stack AI Developer** and early adopter
 </details>
 
 <details open>
-<summary>Frontend</summary>
+<summary>🎨 Frontend</summary>
 <br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -54,36 +56,36 @@ I'm **Machha Kiran**, a passionate **Full-Stack AI Developer** and early adopter
 </details>
 
 <details open>
-<summary>AI & Agentic Tooling</summary>
+<summary>🧠 AI, Agentic & LLM Tools</summary>
 <br>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1F2937?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude-AF5?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=google)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Pinecone](https://img.shields.io/badge/Pinecone-00BFA6?style=for-the-badge)
 ![Chroma](https://img.shields.io/badge/ChromaDB-292524?style=for-the-badge)
-![Anthropic](https://img.shields.io/badge/Claude-AF5?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=google)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-181717?style=for-the-badge)
 
 </details>
 
 <details open>
-<summary>Dev Tools</summary>
+<summary>☁️ Cloud AI & Dev Platforms</summary>
 <br>
 
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Vertex AI](https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-AI-blue?style=for-the-badge)
-![Bolt](https://img.shields.io/badge/Bolt.new-AI-green?style=for-the-badge)
-![tempo.new](https://img.shields.io/badge/Tempo.new-AI-accelerator-yellow?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=machhakiran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
@@ -92,13 +94,16 @@ I'm **Machha Kiran**, a passionate **Full-Stack AI Developer** and early adopter
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 Featured Projects
 
-> *(Coming soon: AI Assistants, Autonomous Workflow Templates, LLM-Powered DevTools)*
+> *Coming soon:*
+> - **AI Agents Hub**: Multi-LLM autonomous orchestration templates  
+> - **LLMOps Tracker**: LLM versioning + evaluation dashboards  
+> - **SaaS with AI Agents**: Cloud-native agentic starter kits (React + AWS + LangChain)
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let’s Collaborate
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCGvNdo-r87Q12zW2MK01BFw" target="_blank">
