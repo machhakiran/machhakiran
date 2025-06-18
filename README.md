@@ -1,125 +1,78 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+👋+I'm+Machha+Kiran;Full-Stack+AI+Developer+%7C+Agentic+Systems+Specialist;Accelerating+SaaS+with+LLMs+and+Cloud+AI+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👋+Hey,+I'm+Machha+Kiran;Agentic+AI+Engineer+%26+Full-Stack+Innovator;Mastering+LLMs,+RAG,+SaaS,+and+Autonomous+Agents" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=machhakiran&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm **Machha Kiran**, a Full-Stack AI Engineer focused on **Agentic Systems, LLMs**, and **Autonomous Applications**. My mission is to design production-grade AI systems that scale across cloud environments using powerful platforms from **OpenAI, Google Vertex AI, AWS Bedrock, and Microsoft Foundry**.
-
-I specialize in:
-- Architecting **SaaS applications enhanced by AI agents**
-- Using **multi-model LLM architectures** with versioning, fine-tuning, and evaluation pipelines
-- Accelerating development with **AI DevTools** and **cloud-native AI accelerators**
-
-<img align="right" alt="AI Coding" width="320" src="https://www.chatbase.co/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fi6kpkyc7%2Fprod-dataset%2F61f36fedbbb3466d985a45eb328a9349cc394e53-1536x1024.png&w=3840&q=75" />
-
-### 🔍 Key Areas of Focus
-- 🧠 **LLM Management**: Selecting, fine-tuning, evaluating, and versioning LLMs for specific domains
-- 🧩 **Multi-model Deployment**: Managing hybrid workflows with OpenAI, Claude, Gemini, and OSS models
-- 🚀 **SaaS Acceleration**: Leveraging AI platforms like:
-  - **AWS Bedrock + SageMaker**
-  - **Google Vertex AI**
-  - **Microsoft Foundry + Azure OpenAI**
-- ⚙️ **AI Lifecycle Tools**: Integrating MLflow, LangSmith, and Weights & Biases for reproducibility and auditability
-- 🤖 **Agentic Orchestration**: CrewAI, LangChain Agents, AutoGen, ReAct and tool-using autonomous workflows
-
----
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary>🧑‍💻 Programming Languages</summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</details>
-
-<details open>
-<summary>🎨 Frontend</summary>
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-</details>
-
-<details open>
-<summary>🧠 AI, Agentic & LLM Tools</summary>
-<br>
-
-![LangChain](https://img.shields.io/badge/LangChain-1F2937?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Claude-AF5?style=for-the-badge)
-![Google Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=google)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-00BFA6?style=for-the-badge)
-![Chroma](https://img.shields.io/badge/ChromaDB-292524?style=for-the-badge)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![LangSmith](https://img.shields.io/badge/LangSmith-181717?style=for-the-badge)
-
-</details>
-
-<details open>
-<summary>☁️ Cloud AI & Dev Platforms</summary>
-<br>
-
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Vertex AI](https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</details>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=machhakiran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=machhakiran&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://komarev.com/ghpvc/?username=machhakiran&label=Profile%20Views&color=4ade80&style=flat" alt="Profile Views" />
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 AI & Agentic Skills Focused for 2025
 
-> *Coming soon:*
-> - **AI Agents Hub**: Multi-LLM autonomous orchestration templates  
-> - **LLMOps Tracker**: LLM versioning + evaluation dashboards  
-> - **SaaS with AI Agents**: Cloud-native agentic starter kits (React + AWS + LangChain)
+🚀 Specializing in modern AI technologies to build scalable, intelligent, and autonomous systems.  
+I’m passionate about deploying multi-agent frameworks, context-managed LLMs, and SaaS AI apps.
+
+### 🧩 Core Capabilities:
+
+- 🔧 **Prompt Engineering** — Structured, context-rich LLM prompts with tools like `PromptPerfect`, `Claude`, `Gemini`, `ChatGPT`.
+- 🤖 **AI Agents & Frameworks** — Build with `LangChain`, `AutoGen`, `CrewAI`, `MetaGPT`, `ReAct`, and `LangGraph`.
+- 📦 **RAG & Vector Search** — Boost accuracy using `LlamaIndex`, `Pinecone`, `FAISS`, and `Weaviate`.
+- 🎯 **Multimodal AI** — Image, audio, and text integration via `GPT-4o`, `Claude 3`, `Gemini 1.5`.
+- ⚙️ **Tool Stacking & Integration** — Combine `Zapier`, `Notion AI`, `ClickUp AI`, `PromptLayer`, `Helicone`.
+- 🛠 **SaaS AI App Dev** — Modular AI apps using `Supabase`, `Bubble`, `Lovable`, `Neon`, `Cursor`, `Stripe`, `Tempo.new`.
+- 📊 **LLM Evaluation & Versioning** — Use `Trulens`, `Weights & Biases`, `OpenAI Evals`, and `LangChain Tools`.
+- 🧠 **Model Context Management (MCP)** — Token budgeting, memory management, and context control with `LangChain Memory`, `LangGraph`, `ReAct`.
+- 📈 **LLM Ops** — Evaluate, fine-tune, and deploy LLMs via `HuggingFace`, `LoRA`, `PEFT`, `OpenAI GPT Builder`.
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🛠 Tech Stack Highlights
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCGvNdo-r87Q12zW2MK01BFw" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:machhakiran@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/machhakiran/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/machhakiran" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-2B2D42?style=flat-square&logo=Chainlink&logoColor=white)
+
+---
+
+## ⚡ Quick AI POCs with No-Code & Agentic Stacks
+
+✅ Build prototypes in hours using:
+
+| Tool            | Use Case                          |
+|-----------------|------------------------------------|
+| `Tempo.new`     | Fast prototyping with AI pipelines |
+| `Cleark`        | Agent building and orchestration   |
+| `Stripe`        | SaaS billing and payments          |
+| `Neon`          | Postgres database in the cloud     |
+| `OpenAI`        | Core LLM-based logic & outputs     |
+| `Fal.ai`        | Serverless GPU AI backend          |
+
+---
+
+## ☁️ Cloud + Enterprise Stack
+
+🔹 AWS Bedrock & SageMaker  
+🔹 Google Vertex AI + Gemini APIs  
+🔹 Microsoft Foundry + Azure OpenAI  
+
+👉 Use for scalable AI infra, multi-LLM routing, enterprise guardrails, observability, and governance.
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/machhakiran/)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGvNdo-r87Q12zW2MK01BFw)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machhakiran@gmail.com)
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </div>
