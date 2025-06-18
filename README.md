@@ -1,43 +1,120 @@
-<h1 align="center">Hi 👋, I'm Kiran</h1>
-<h3 align="center">A seasoned professional with 12 years of experience in Data Science, Machine Learning, Generative AI, Large Language Models (LLMs), and Full-Stack Development</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+👋+I'm+Machha+Kiran;AI+Engineer+%7C+Agentic+Systems+Builder;Innovating+the+Future+with+LLMs+and+Modern+AI+Tools" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on **Generative AI and LLM applications**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=machhakiran&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-- 🌱 I’m exploring advanced techniques in **Machine Learning and Data Science**
+---
 
-- 👯 I’m looking to collaborate on innovative **Generative AI and ML projects**
+## 👨‍💻 About Me
 
-- 🤝 I’m eager to connect with experts in **ML and Data Science**
+I'm **Machha Kiran**, a passionate **Full-Stack AI Developer** and early adopter of **Agentic Frameworks**. I specialize in building intelligent, autonomous systems using cutting-edge AI tools and frameworks. Whether it's crafting LLM-powered apps, orchestrating multi-agent systems, or integrating AI with scalable cloud infrastructure—I'm driven by innovation and impact.
 
-- 👨‍💻 Check out my projects on [GitHub](https://github.com/machhakiran?tab=overview&from=2024-11-01&to=2024-11-23)
+<img align="right" alt="AI Agent" width="320" src="https://www.chatbase.co/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fi6kpkyc7%2Fprod-dataset%2F61f36fedbbb3466d985a45eb328a9349cc394e53-1536x1024.png&w=3840&q=75">
 
-- 💬 Feel free to ask me about **LLMs, Generative AI, and Full-Stack Development**
+### 🚀 What I’m Working On
+- 🤖 Developing **Agentic AI applications** using frameworks like **LangChain**, **CrewAI**, and **AutoGen**
+- 🧠 Building **LLM-driven tools** using **OpenAI**, **Anthropic**, **Gemini**, and **Hugging Face**
+- 📱 Prototyping mobile AI assistants using **React Native + LLM APIs**
+- ⚙️ Experimenting with **AI DevTools** such as **Cursor**, **Bolt.new**, **Cleark**, and **tempo.new**
+- 🧩 Deploying vector search apps with **Pinecone**, **Chroma**, and **Weaviate**
 
-- 📫 You can reach me at **machhakiran@gmail.com**
+### 🧠 Core Interests
+- AI Agents & Autonomy
+- LLM Orchestration
+- Human-AI Interfaces (Electron, Web, Mobile)
+- Developer Experience in AI
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/machhakiran@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+---
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary>Languages</summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</details>
+
+<details open>
+<summary>Frontend</summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</details>
+
+<details open>
+<summary>AI & Agentic Tooling</summary>
+<br>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1F2937?style=for-the-badge&logo=python&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-00BFA6?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/ChromaDB-292524?style=for-the-badge)
+![Anthropic](https://img.shields.io/badge/Claude-AF5?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=google)
+
+</details>
+
+<details open>
+<summary>Dev Tools</summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-AI-blue?style=for-the-badge)
+![Bolt](https://img.shields.io/badge/Bolt.new-AI-green?style=for-the-badge)
+![tempo.new](https://img.shields.io/badge/Tempo.new-AI-accelerator-yellow?style=for-the-badge)
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=machhakiran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=machhakiran&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+> *(Coming soon: AI Assistants, Autonomous Workflow Templates, LLM-Powered DevTools)*
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCGvNdo-r87Q12zW2MK01BFw" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:machhakiran@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/machhakiran/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/machhakiran" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=machhakiran&show_icons=true&locale=en&layout=compact" alt="machhakiran" /></p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
