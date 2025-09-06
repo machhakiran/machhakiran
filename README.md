@@ -9,7 +9,7 @@
 ---
 ## 👨‍💻 About Me
 
-I'm **Machha Kiran** — a passionate ** Architecture ** and **Agentic Systems Engineer** focused on building intelligent, scalable, and production-ready applications across web, mobile, and enterprise-grade systems.
+I'm **Machha Kiran** — a passionate **AI Resercher** and **Agentic Systems Engineer** focused on building intelligent, scalable, and production-ready applications across web, mobile, and enterprise-grade systems.
 
 🔹 With deep expertise in **Large Language Models (LLMs)**, **Autonomous AI Agents**, and **cloud-native development**, I specialize in **end-to-end architecture** of full-stack agentic platforms — integrating advanced reasoning, vector search, real-time data pipelines, and multi-modal experiences.
 
