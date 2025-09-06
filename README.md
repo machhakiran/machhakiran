@@ -34,7 +34,6 @@ I'm **Machha Kiran** — a passionate **AI Product Architect** and **Agentic Sys
 
 **🚀 Deployed in 1 Day using AI-first stack**
 
-
 ## 🛠️ Tech Stack
 
 <details open>
@@ -58,18 +57,30 @@ I'm **Machha Kiran** — a passionate **AI Product Architect** and **Agentic Sys
 </details>
 
 <details open>
+<summary>AI / ML</summary><br>
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white)
+![Coding AI Agent](https://img.shields.io/badge/Coding_AI_Agent-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logoColor=white)
+
+</details>
+
+<details open>
 <summary>Cloud, AI & Tools</summary><br>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Fal.ai](https://img.shields.io/badge/Fal.ai-000000?style=for-the-badge&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Tempo.new](https://img.shields.io/badge/Tempo.new-000000?style=for-the-badge&logoColor=white)
-![Cleark](https://img.shields.io/badge/Cleark-000000?style=for-the-badge&logoColor=white)
+![Tempo](https://img.shields.io/badge/Tempo-000000?style=for-the-badge&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logoColor=white)
 
 </details>
 
