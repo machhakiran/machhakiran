@@ -13,7 +13,7 @@ I'm **Machha Kiran** — a passionate **AI Resercher** and **Agentic Systems Eng
 
 🔹 With deep expertise in **Large Language Models (LLMs)**, **Autonomous AI Agents**, and **cloud-native development**, I specialize in **end-to-end architecture** of full-stack agentic platforms — integrating advanced reasoning, vector search, real-time data pipelines, and multi-modal experiences.
 
-🔹 My work spans from **agent orchestration frameworks** (LangChain, AutoGen, MCP,A2A) to **secure authentication**, **usage-based billing**, and **fine-grained context management** — all deployed via scalable backend infrastructure like **AWS**, **Azure**, and **Neon**.
+🔹 My work spans from **agent orchestration frameworks** (LangChain,Langgraph AutoGen, MCP,A2A) to **secure authentication**, **usage-based billing**, and **fine-grained context management** — all deployed via scalable backend infrastructure like **AWS**, **Azure**,**GOOGLE**,and **Neon**.
 
 🔹 Whether it's building a **multimodal AI assistant**, a **real-time agent workflow**, or a **modular SaaS product** with **Stripe-powered monetization** and **OpenAI-driven intelligence**, I bring full-stack engineering and AI fluency together to deliver future-proof solutions.
 
