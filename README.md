@@ -83,7 +83,8 @@ I'm **Machha Kiran** — a passionate **AI/ML Resercher** and **Agentic Systems 
 </details>
 
 <details open>
-<summary>Dev & Infra</summary><br>
+<summary>Dev & Infra</summary><br> 
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitFlows](https://img.shields.io/badge/GitFlows-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
