@@ -84,7 +84,12 @@ I'm **Machha Kiran** — a passionate **AI/ML Resercher** and **Agentic Systems 
 
 <details open>
 <summary>Dev & Infra</summary><br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHubFlows](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![MLOps](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-2C2D72?style=for-the-badge&logoColor=white)
 
 </details>
 
