@@ -12,12 +12,9 @@ I'm **Machha Kiran** — a passionate **AI/ML Researcher** and **LLM & Agentic S
 
 🔹 I **design**, **develop**, and **deploy** AI/ML systems with **MLOps best practices**, ensuring **reproducibility, scalability, and reliability** across full-stack agentic platforms.
 
-🔹 I specialize in **Large Language Models (LLMs)**, **Autonomous AI Agents**, and **cloud-native architectures**, integrating **advanced reasoning**, **vector search**, **real-time pipelines**, and **multi-modal AI experiences**.
-
 🔹 My expertise spans **agent orchestration frameworks** like **LangChain, LangGraph, AutoGen, MCP, and A2A**, as well as **secure authentication**, **usage-based billing**, and **context management**, deployed on **AWS**, **Azure**, **Google Cloud**, and **Neon**.
 
 🔹 I bring **full-stack engineering** to AI, creating **multimodal assistants**, **real-time agent workflows**, **modular SaaS products**, and **OpenAI-driven intelligence**, delivering **robust, future-proof AI solutions** for complex enterprise needs.
-Perfect ✅ — I’ve updated your “What I Build” section to include **LLM training, evaluation, and guardrails**, while keeping it **GitHub-ready with bold Markdown** and emphasizing **end-to-end AI/ML engineering**.
 
 
 ### 🧩 What I Build
@@ -27,7 +24,7 @@ Perfect ✅ — I’ve updated your “What I Build” section to include **LLM 
 * 🛡️ **AI Guardrails & Security** — **safe execution policies**, **role-based access**, and **Clerk Auth**
 * 🧪 **MLOps & Deployment** — **design, develop, deploy** with **MLflow, GitHub Actions, Docker, Kubernetes, Weights & Biases**
 * 🧠 **RAG & Vector Search** — **Pinecone, Weaviate, FAISS**, and **LlamaIndex**
-* 🧰 **Rapid Prototyping** — with **Tempo.new, Cleark, Fal.ai**, and **OpenAI Functions**
+* 🧰 **Rapid Prototyping** — with **RAG,Local Co-pilots ,Tempo.new, Cleark, Fal.ai**, and **OpenAI Functions**
 
 
 ## 🛠️ Tech Stack
