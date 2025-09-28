@@ -19,9 +19,6 @@ I'm **Machha Kiran** — a passionate **AI/ML Researcher** and **LLM & Agentic S
 🔹 I bring **full-stack engineering** to AI, creating **multimodal assistants**, **real-time agent workflows**, **modular SaaS products**, and **OpenAI-driven intelligence**, delivering **robust, future-proof AI solutions** for complex enterprise needs.
 Perfect ✅ — I’ve updated your “What I Build” section to include **LLM training, evaluation, and guardrails**, while keeping it **GitHub-ready with bold Markdown** and emphasizing **end-to-end AI/ML engineering**.
 
-Got it ✅ — I’ve **condensed** your “What I Build” section, included **Hugging Face Transformers for LLM training**, and kept it **GitHub-ready with bold Markdown**.
-
----
 
 ### 🧩 What I Build
 
@@ -32,18 +29,6 @@ Got it ✅ — I’ve **condensed** your “What I Build” section, included **
 * 🧠 **RAG & Vector Search** — **Pinecone, Weaviate, FAISS**, and **LlamaIndex**
 * 🧰 **Rapid Prototyping** — with **Tempo.new, Cleark, Fal.ai**, and **OpenAI Functions**
 
----
-
-This version:
-
-* Highlights **LLM training with Hugging Face Transformers**
-* Includes **evaluation & guardrails**
-* Keeps **MLOps & deployment**
-* Reduces verbosity for readability on GitHub
-
-If you want, I can **also make a compact badge-style Tech Stack section** for this streamlined workflow — perfect for a **README**.
-
-Do you want me to do that?
 
 ## 🛠️ Tech Stack
 
