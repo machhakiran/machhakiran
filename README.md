@@ -21,12 +21,12 @@ I'm **Machha Kiran** — a passionate **AI Resercher** and **Agentic Systems Eng
 
 ### 🧩 What I Build
 
-- 🔁 **Agentic AI Applications** using LangChain, CrewAI, AutoGen, LangGraph, MCP and custom agent routers  
+- 🔁 **Agentic AI Applications** using Spring Boot AI, LangChain, AutoGen, LangGraph, MCP and custom agent routers  
 - 📱 **Cross-Platform Apps** with Next.js, React Native, Tailwind, Supabase, Neon, Firebase  
 - 🧠 **LLM Workflows** including prompt optimization, context control, tool-use agents, and fine-tuned pipelines  
-- 🛡️ **Auth Systems** using NextAuth, Clerk, Firebase Auth with role-based access and secure token flow  
+- 🛡️ **Auth Systems** using Clerk Auth with role-based access and secure token flow  
 - 💳 **Payment Integration** using Stripe, Webhooks, SaaS usage tracking, and multi-plan subscriptions  
-- 🧪 **ModelOps & Observability** with tools like Trulens, Helicone, PromptLayer, Weights & Biases  
+- 🧪 **ModelOps & Observability** with tools like Github Actions, MLFlow, Docker, Kubernetes, Trulens, Helicone, PromptLayer, Weights & Biases  
 - 🧠 **RAG & Vector Search Pipelines** using Pinecone, Weaviate, FAISS, and LlamaIndex  
 - 🧰 **Rapid AI Prototyping** with tools like Tempo.new, Cleark, Fal.ai, and OpenAI Functions
 
