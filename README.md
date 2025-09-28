@@ -6,11 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=machhakiran&label=Profile%20Views&color=4ade80&style=flat" alt="Profile Views" />
 </div>
 
----
-Here’s a **GitHub-ready version** of your description, emphasizing **Design, Develop, Deploy** with **MLOps** and proper `**bold**` Markdown:
-
----
-
 ## 👨‍💻 About Me
 
 I'm **Machha Kiran** — a passionate **AI/ML Researcher** and **LLM & Agentic Systems Engineer**, building **intelligent, scalable, and production-ready AI applications** across web, mobile, and enterprise systems.
