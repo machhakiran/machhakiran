@@ -7,17 +7,22 @@
 </div>
 
 ---
-## 👨‍💻 About Me
-
-I'm **Machha Kiran** — a passionate **AI/ML Resercher** and **Agentic Systems Engineer** focused on building intelligent, scalable, and production-ready applications across web, mobile, and enterprise-grade systems.
-
-🔹 With deep expertise in **Large Language Models (LLMs)**, **Autonomous AI Agents**, and **cloud-native development**, I specialize in **end-to-end architecture** of full-stack agentic platforms — integrating advanced reasoning, vector search, real-time data pipelines, and multi-modal experiences.
-
-🔹 My work spans from **agent orchestration frameworks** (LangChain,Langgraph AutoGen, MCP,A2A) to **secure authentication**, **usage-based billing**, and **fine-grained context management** — all deployed via scalable backend infrastructure like **AWS**, **Azure**,**GOOGLE**,and **Neon**.
-
-🔹 Whether it's building a **multimodal AI assistant**, a **real-time agent workflow**, or a **modular SaaS product** and **OpenAI-driven intelligence**, I bring full-stack engineering and AI fluency together to deliver future-proof solutions.
+Here’s a **GitHub-ready version** of your description, emphasizing **Design, Develop, Deploy** with **MLOps** and proper `**bold**` Markdown:
 
 ---
+
+## 👨‍💻 About Me
+
+I'm **Machha Kiran** — a passionate **AI/ML Researcher** and **LLM & Agentic Systems Engineer**, building **intelligent, scalable, and production-ready AI applications** across web, mobile, and enterprise systems.
+
+🔹 I **design**, **develop**, and **deploy** AI/ML systems with **MLOps best practices**, ensuring **reproducibility, scalability, and reliability** across full-stack agentic platforms.
+
+🔹 I specialize in **Large Language Models (LLMs)**, **Autonomous AI Agents**, and **cloud-native architectures**, integrating **advanced reasoning**, **vector search**, **real-time pipelines**, and **multi-modal AI experiences**.
+
+🔹 My expertise spans **agent orchestration frameworks** like **LangChain, LangGraph, AutoGen, MCP, and A2A**, as well as **secure authentication**, **usage-based billing**, and **context management**, deployed on **AWS**, **Azure**, **Google Cloud**, and **Neon**.
+
+🔹 I bring **full-stack engineering** to AI, creating **multimodal assistants**, **real-time agent workflows**, **modular SaaS products**, and **OpenAI-driven intelligence**, delivering **robust, future-proof AI solutions** for complex enterprise needs.
+
 
 ### 🧩 What I Build
 
