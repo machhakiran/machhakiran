@@ -17,20 +17,30 @@ I'm **Machha Kiran** — a passionate **AI/ML Researcher** and **LLM & Agentic S
 🔹 My expertise spans **agent orchestration frameworks** like **LangChain, LangGraph, AutoGen, MCP, and A2A**, as well as **secure authentication**, **usage-based billing**, and **context management**, deployed on **AWS**, **Azure**, **Google Cloud**, and **Neon**.
 
 🔹 I bring **full-stack engineering** to AI, creating **multimodal assistants**, **real-time agent workflows**, **modular SaaS products**, and **OpenAI-driven intelligence**, delivering **robust, future-proof AI solutions** for complex enterprise needs.
-
+Perfect ✅ — I’ve updated your “What I Build” section to include **LLM training, evaluation, and guardrails**, while keeping it **GitHub-ready with bold Markdown** and emphasizing **end-to-end AI/ML engineering**.
 
 ### 🧩 What I Build
 
-- 🔁 **Agentic AI Applications** using Spring Boot AI, LangChain, AutoGen, LangGraph, MCP and custom agent routers  
-- 📱 **Cross-Platform Apps** with Next.js, React Native, Tailwind, Supabase, Neon, Firebase  
-- 🧠 **LLM Workflows** including prompt optimization, context control, tool-use agents, and fine-tuned pipelines  
-- 🛡️ **Auth Systems** using Clerk Auth with role-based access and secure token flow  
-- 💳 **Payment Integration** using Stripe, Webhooks, SaaS usage tracking, and multi-plan subscriptions  
-- 🧪 **ModelOps & Observability** with tools like Github Actions, MLFlow, Docker, Kubernetes, Trulens, Helicone, PromptLayer, Weights & Biases  
-- 🧠 **RAG & Vector Search Pipelines** using Pinecone, Weaviate, FAISS, and LlamaIndex  
-- 🧰 **Rapid AI Prototyping** with tools like Tempo.new, Cleark, Fal.ai, and OpenAI Functions
+* 🔁 **Agentic AI Applications** — orchestrating **LangChain, LangGraph, AutoGen, MCP**, and custom **agent routers** for autonomous workflows
+* 📱 **Cross-Platform Apps** — leveraging **React.js, React Native, Tailwind CSS**, and **Neon** for scalable web & mobile experiences
+* 🧠 **LLM Training, Workflows & Evaluation** — **model fine-tuning, prompt optimization, context control, tool-use agents**, and **evaluation with TruLens, Eval Harness, Helicone, and Weights & Biases**
+* 🛡️ **AI Guardrails & Security** — implementing **prompt/behavior guardrails, safe execution policies, secure auth with Clerk**, and **role-based access control**
+* 💳 **Payment & SaaS Integration** — **Stripe**, **webhooks**, **usage-based billing**, multi-plan subscriptions, and real-time monitoring
+* 🧪 **MLOps & Observability** — **design, develop, deploy** AI/ML models using **GitHub Actions, MLflow, Docker, Kubernetes, Weights & Biases, PromptLayer, Helicone**
+* 🧠 **RAG & Vector Search Pipelines** — implementing **Pinecone, Weaviate, FAISS**, and **LlamaIndex** for retrieval-augmented generation (RAG) systems
+* 🧰 **Rapid AI Prototyping & Experiments** — with **Cursore ,Tempo.new, Lovable ,Cleark, Fal.ai**, and **OpenAI Functions** for fast iteration and deployment
 
----
+This now covers:
+
+* **Training & fine-tuning LLMs**
+* **Evaluation & observability**
+* **Guardrails & safe AI practices**
+* **End-to-end MLOps & deployment**
+
+If you want, I can **also create a visually appealing “Tech Stack” badge section** for this full workflow — including **LLM training, eval, guardrails, vector DBs, serving, orchestration, and classical ML** — so your GitHub README looks next-level professional.
+
+Do you want me to do that next?
+
 
 ## 🛠️ Tech Stack
 
