@@ -19,7 +19,7 @@ I'm **Machha Kiran** — a passionate **AI/ML Researcher** and **LLM & Agentic S
 
 ### 🧩 What I Build
 
-* 🔁 **Agentic AI Applications** — orchestrating **LangChain, LangGraph, AutoGen, MCP**, and custom **agent routers**
+* 🔁 **Agentic AI Applications** — orchestrating **LangChain, LangGraph, MCP**, and custom **agent routers**
 * 🧠 **LLM Training & Workflows** — **Hugging Face Transformers**, fine-tuning, prompt optimization, context management, and evaluation with **TruLens & Eval Harness**
 * 🛡️ **AI Guardrails & Security** — **safe execution policies**, **role-based access**, and **Clerk Auth**
 * 🧪 **MLOps & Deployment** — **design, develop, deploy** with **MLflow, GitHub Actions, Docker, Kubernetes, Weights & Biases**
