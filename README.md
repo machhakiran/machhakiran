@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Machha Kiran** — a passionate **AI/ML Researcher** and **LLM & Agentic Systems Engineer**, building **intelligent, scalable, and production-ready AI applications** across web, mobile, and enterprise systems.
+I'm **Machha Kiran** — a passionate **AI/LLM Researcher** and **AI & Agentic Systems Engineer**, building **intelligent, scalable, and production-ready AI applications** across web, mobile, and enterprise systems.
 
 🔹 I **design**, **develop**, and **deploy** AI/ML systems with **MLOps best practices**, ensuring **reproducibility, scalability, and reliability** across full-stack agentic platforms.
 
