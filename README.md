@@ -8,117 +8,93 @@
 
 ## 👨‍💻 About Me
 
-I'm **Machha Kiran** — a passionate **AI/LLM Researcher** and ** Agentic AI Systems Engineer**, building **intelligent autonomy, scalable, and production-ready AI applications** across web, mobile, and enterprise systems.
+I'm **Machha Kiran** — a passionate **AI/LLM Researcher** and **Agentic AI Systems Engineer**, building **intelligent, scalable, production-ready AI applications** across web, mobile, and enterprise systems.
 
-🔹 I **design**, **develop**, and **deploy** AI/ML systems with **MLOps best practices**, ensuring **reproducibility, scalability, and reliability** across full-stack agentic platforms.
+🔹 I **design, develop, and deploy** AI/ML systems with **MLOps best practices**, ensuring **reproducibility, scalability, and reliability** across full-stack agentic platforms.
 
-🔹 My expertise spans **agent orchestration frameworks** like **LangChain, LangGraph, AutoGen, MCP, and A2A**, as well as **secure authentication**, **usage-based billing**, and **context management**, deployed on **AWS**, **Azure**, **Google Cloud**, and **Neon**.
+🔹 My expertise spans **agent orchestration frameworks**, **secure authentication**, **usage-based billing**, and **context management**, deployed on **AWS, Azure, Google Cloud, and hybrid infrastructure**.
 
-🔹 I bring **full-stack engineering** to AI, creating **multimodal assistants**, **real-time agent workflows**, **modular SaaS products**, and **OpenAI-driven intelligence**, delivering **robust, future-proof AI solutions** for complex enterprise needs.
+🔹 I bring **full-stack engineering** to AI — building **multimodal assistants, real-time agent workflows, modular SaaS platforms, and enterprise copilots**.
 
+---
 
 ### 🧩 What I Build
 
-* 🔁 **Agentic AI Applications** — orchestrating **LangChain, LangGraph, MCP**, and custom **agent routers**
-* 🧠 **LLM Training & Workflows** — **Hugging Face Transformers**, fine-tuning, prompt optimization, context management, and evaluation with **TruLens & Eval Harness**
-* 🛡️ **AI Guardrails & Security** — **safe execution policies**, **role-based access**, and ** Auth**
-* 🧪 **MLOps & Deployment** — **design, develop, deploy** with **Vllm, S3, MLflow, GitHub , Docker, Kubernetes, langFuse, Weights & Biases**
-* 🧠 **RAG & Vector Search** — **Pinecone, Neon4j ,Opensearch, PGVector, FAISS**, and **LlamaIndex**
-* 🧰 **Rapid Prototyping** — with **RAG,Local Co-pilots ,AI Agents, Open source models and cloud-based **
+* 🔁 Agentic AI applications
+* 🧠 LLM training & evaluation workflows
+* 🛡️ AI guardrails & secure execution
+* 🧪 MLOps & production deployments
+* 🧠 RAG & vector intelligence platforms
+* 🧰 Rapid prototyping → production hardening
 
+---
 
-## 🛠️ Tech Stack
+# 🛠️ Production Tech Stack
 
-<details open>
-<summary>Backend</summary><br>
+**Frontend:** React, Next.js, TypeScript, TailwindCSS, ShadCN UI, React Native, Electron, Streaming Chat UI
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=brain&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-2C2D72?style=for-the-badge&logo=cloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Backend:** Python, FastAPI, Node.js, Spring Boot, REST APIs, GraphQL, Microservices, Async Workers
 
+**Agent Frameworks:** LangChain, LangGraph, AutoGen, MCP, A2A, Semantic Kernel, Tool Calling Systems
 
-</details>
+**LLM Inference:** vLLM, Ollama, TGI, llama.cpp, TensorRT-LLM, HuggingFace Inference Endpoints, RunPod
 
-<details open>
-<summary>Frontend</summary><br>
-  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+**LLM Router:** LiteLLM, OpenRouter, RouteLLM, fallback chains, multi-model routing, SLA-aware routing
 
-</details>
+**Training & Fine-Tuning:** HuggingFace Transformers, PEFT, LoRA, QLoRA, DeepSpeed, Accelerate, Axolotl
 
-<details open>
-<summary>AI / ML</summary><br>
+**Evaluation:** TruLens, RAGAS, DeepEval, Eval Harness, prompt regression testing, benchmark pipelines
 
-<!-- Classical ML -->
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-00CC99?style=for-the-badge&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-3083DC?style=for-the-badge&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
+**RAG & Retrieval:** LlamaIndex, LangChain Retrieval, Hybrid Search, BM25, Semantic Search, Query Rewriting
 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white)
-![Eval Harness](https://img.shields.io/badge/Eval_Harness-444444?style=for-the-badge&logoColor=white)
-![Ray Serve](https://img.shields.io/badge/Ray_Serve-028CF0?style=for-the-badge&logo=ray&logoColor=white)
+**Vector Databases:** Pinecone, Qdrant, Weaviate, Milvus, PGVector, FAISS
 
-</details>
+**Databases:** PostgreSQL, MongoDB, Redis, DynamoDB, Neo4j
 
+**Search:** OpenSearch, Elasticsearch, Hybrid keyword + vector search
 
-<details open>
-<summary>Cloud, AI & Tools</summary><br>
+**Data Pipelines:** Apache Airflow, Prefect, Kafka, Spark, ETL pipelines, ingestion workers
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+**Document Processing:** Unstructured, Apache Tika, OCR pipelines, PDF parsers, chunking pipelines
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Fal.ai](https://img.shields.io/badge/Fal.ai-000000?style=for-the-badge&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Tempo](https://img.shields.io/badge/Tempo-000000?style=for-the-badge&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logoColor=white)
+**LLMOps:** Langfuse, MLflow, Weights & Biases, prompt versioning, trace monitoring, feedback loops
 
-</details>
+**Observability:** Prometheus, Grafana, OpenTelemetry, Loki, distributed tracing, latency dashboards
 
-<details open>
-<summary>Dev & Infra</summary><br> 
+**API Gateway:** Kong, NGINX, AWS API Gateway, rate limiting, auth layers
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitFlows](https://img.shields.io/badge/GitFlows-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-2C2D72?style=for-the-badge&logo=gear&logoColor=white)
+**Infrastructure:** Docker, Kubernetes, Helm, Terraform, GPU clusters, autoscaling
 
-</details>
+**Cloud:** AWS, Microsoft Azure, Google Cloud, RunPod, SageMaker, Vertex AI
 
+**Hybrid Deployment:** On-prem inference, VPC deployment, private networking, cloud burst scaling
 
+**Security:** IAM, Secrets Manager, Vault, RBAC, audit logging, compliance pipelines
+
+**CI/CD:** GitHub Actions, GitLab CI, Jenkins, ArgoCD
+
+**Model Registry:** MLflow Registry, HuggingFace Hub, internal model registry
+
+**Data Versioning:** DVC, LakeFS, Delta Lake
+
+**Experimentation:** A/B testing, shadow deployment, canary inference, evaluation pipelines
+
+**Edge/Local Inference:** Quantization, GGUF models, CPU inference, offline agents
+
+**Developer Tooling:** Cursor, Claude Code, Copilot, Antigravity, AI-assisted engineering workflows
+
+---
 
 ### 🌐 Let's Connect
 
 I’m always open to collaborations, mentorships, and innovative AI discussions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/machhakiran/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machhakiran@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGvNdo-r87Q12zW2MK01BFw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/machhakiran/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:machhakiran@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/channel/UCGvNdo-r87Q12zW2MK01BFw)
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </div>
-
