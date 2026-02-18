@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Machha Kiran** — a passionate **AI/LLM Researcher** and **AI & Agentic Systems Engineer**, building **intelligent, scalable, and production-ready AI applications** across web, mobile, and enterprise systems.
+I'm **Machha Kiran** — a passionate **AI/LLM Researcher** and ** Agentic AI Systems Engineer**, building **intelligent autonomy, scalable, and production-ready AI applications** across web, mobile, and enterprise systems.
 
 🔹 I **design**, **develop**, and **deploy** AI/ML systems with **MLOps best practices**, ensuring **reproducibility, scalability, and reliability** across full-stack agentic platforms.
 
@@ -24,7 +24,7 @@ I'm **Machha Kiran** — a passionate **AI/LLM Researcher** and **AI & Agentic S
 * 🛡️ **AI Guardrails & Security** — **safe execution policies**, **role-based access**, and **Clerk Auth**
 * 🧪 **MLOps & Deployment** — **design, develop, deploy** with **MLflow, GitHub Actions, Docker, Kubernetes, Weights & Biases**
 * 🧠 **RAG & Vector Search** — **Pinecone, Weaviate, FAISS**, and **LlamaIndex**
-* 🧰 **Rapid Prototyping** — with **RAG,Local Co-pilots ,Tempo.new, Cleark, Fal.ai**, and **OpenAI Functions**
+* 🧰 **Rapid Prototyping** — with **RAG,Local Co-pilots ,AI Agents, Open source models and cloud-based **
 
 
 ## 🛠️ Tech Stack
