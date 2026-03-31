@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b894&height=150&section=header&text=Machha%20Kiran&fontSize=60&animation=fadeIn&fontColor=ffffff" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=00b894&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👋+Hey,+I'm+Machha+Kiran;Agentic+AI+Engineer+%26+Full-Stack+Innovator;Mastering+LLMs,+RAG,+SaaS,+and+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=00b894&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👋+Hey,+I'm+Machha;Agentic+AI+Engineer+%26+Full-Stack+Innovator;Mastering+LLMs,+RAG,+SaaS,+and+Agents" alt="Typing SVG" />
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=machhakiran&label=Profile%20Views&color=00b894&style=flat-square" alt="Profile Views" />
@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-I'm **Machha Kiran** — a passionate **AI/LLM Researcher** and **Agentic AI Systems Engineer**, dedicated to building **intelligent, scalable, and autonomous** AI applications.
+I'm ** Kiran** — a passionate **AI/LLM Researcher** and **Agentic AI Systems Engineer**, dedicated to building **intelligent, scalable, and autonomous** AI applications.
 
 - 🧠 **Research focus**: Agent orchestration, Context management, and LLM reasoning.
 - 🏗️ **Architect**: Designing production-ready MLOps pipelines with high reliability.
