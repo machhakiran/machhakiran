@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4F46E5,7C3AED,06B6D4,10B981&height=180&section=header&text=Kiran%20Machha&fontSize=50&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Forward%20Deployed%20AI%20Engineer%20%7C%20Sovereign%20AI%20and%20Agentic%20Systems%20Specialist&descSize=17&descAlignY=62" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2800&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&width=780&height=100&lines=Forward+Deployed+AI+Engineer+(Singapore+%2F+APAC);Sovereign+AI+Infrastructure+and+Air-Gapped+Inference;Autonomous+Agent+Swarms+(MCP%2C+OpenClaw%2C+Hermes);Enterprise+Hybrid+RAG%2C+vLLM+and+Kubernetes+GPU+Pools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&width=800&height=135&lines=Forward+Deployed+AI+Engineer+(Singapore+%2F+APAC);Sovereign+AI+Infrastructure+and+Air-Gapped+Inference;Autonomous+Agent+Swarms+(MCP%2C+OpenClaw%2C+Hermes);Enterprise+Hybrid+RAG%2C+vLLM+and+Kubernetes+GPU+Pools" alt="Typing SVG" />
+  <br/><br/>
 
   <p align="center">
     <a href="https://www.machhakiran.pro" target="_blank">
